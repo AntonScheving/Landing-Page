@@ -1,0 +1,37 @@
+header{
+    background-color: black;
+    max-width: 100%;
+    padding: 100px;
+    border-radius: 25px;
+}
+h1 {
+    color: rgb(253, 253, 252);
+    font-size: 72px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: inline-block
+    padding: 5px 10px
+}
+.Motto {
+    text-align: center;
+}
+nav ul {
+    white-space: nowrap;
+    max-width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+    
+  }
+  nav li{
+    width: 25%;
+    display: inline-block;
+    font-size: 24px;
+
+  }
+  footer {
+    text-align: center;
+    background-color: black;
+    color: white
+
+  }
+  
