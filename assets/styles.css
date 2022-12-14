@@ -1,6 +1,8 @@
 header{
     background-color: black;
+    display: block;
     max-width: 100%;
+    position: fixed, centre;
     padding: 100px;
     border-radius: 25px;
 }
@@ -31,6 +33,7 @@ nav ul {
   footer {
     text-align: center;
     background-color: black;
+    display: block;
     color: white
 
   }
